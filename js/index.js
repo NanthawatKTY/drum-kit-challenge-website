@@ -66,5 +66,5 @@ function buttonAnimation(currentKey) {
     //Set time out for BTN animation after pressed the btn
     setTimeout(function() {
         activeBtn.classList.remove("pressed")
-    }, 100)
+    }, 50)
 }
